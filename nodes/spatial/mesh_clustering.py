@@ -21,7 +21,6 @@ import numpy as np
 from sverchok.dependencies import pyacvd
 if pyacvd is not None:
     from pyvista import examples, PolyData
-#import pyacvd
 
 import bpy
 import bmesh
